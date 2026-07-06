@@ -1,0 +1,2 @@
+# nixhero-home
+# Home manager
