@@ -9,6 +9,7 @@
     cowsay
     ranger
     alejandra
+    grc
   ];
 
   programs.home-manager.enable = true;
