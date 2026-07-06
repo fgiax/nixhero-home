@@ -8,6 +8,9 @@
   home.packages = with pkgs; [
     cowsay
     ranger
+    neovim
+    fzf
+    tmux
     alejandra
     grc
   ];
