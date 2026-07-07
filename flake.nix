@@ -21,7 +21,8 @@
 
         modules = [
             ./home.nix
-            ./fish.nix
+            ./modules/fish.nix
+            ./modules/neovim/neovim.nix
           ];
 
         # Optionally use extraSpecialArgs
