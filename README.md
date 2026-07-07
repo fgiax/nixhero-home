@@ -1,4 +1,3 @@
 # Home manager `nixhero-home`
 
-**source:**
-  - https://youtu.be/cZDiqGWPHKI?si=wEK-XFfZBR43PalR
+**source:** [Getting Started with Nix Home Manager](https://youtu.be/cZDiqGWPHKI?si=wEK-XFfZBR43PalR)
