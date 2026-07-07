@@ -9,7 +9,6 @@
     cowsay
     ranger
     neovim
-    fzf
     tmux
     alejandra
     grc

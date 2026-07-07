@@ -2,6 +2,7 @@
 
 {
   programs.fish.enable = true;
+  programs.fzf.enable = true;
 
   programs.fish.shellAliases = {
     ll = "ls -lah";
