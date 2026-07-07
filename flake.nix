@@ -20,7 +20,7 @@
         inherit pkgs;
 
         modules = [
-            ./home.nix
+            ./home
             ./fish
             ./neovim
           ];
