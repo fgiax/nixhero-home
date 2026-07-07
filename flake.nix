@@ -21,6 +21,7 @@
 
         modules = [
             ./home
+            ./git
             ./fish
             ./neovim
           ];
