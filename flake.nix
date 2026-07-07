@@ -18,16 +18,12 @@
     {
       homeConfigurations."nixhero-home" = home-manager.lib.homeManagerConfiguration {
         inherit pkgs;
-
         modules = [
             ./home
             ./git
             ./fish
             ./neovim
           ];
-
-        # Optionally use extraSpecialArgs
-        # to pass through arguments to home.nix
       };
     };
 }
