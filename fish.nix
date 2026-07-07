@@ -3,6 +3,10 @@
 {
   programs.fish.enable = true;
   programs.fzf.enable = true;
+  programs.starship = {
+    enable = true;
+    enableFishIntegration = true;
+  };
 
   programs.fish.shellAliases = {
     ll = "ls -lah";
